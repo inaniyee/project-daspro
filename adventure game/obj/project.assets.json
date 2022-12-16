@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A S U S\\Desktop\\adventure game\\adventure game.csproj",
+      "projectUniqueName": "C:\\Users\\A S U S\\Desktop\\Daspro\\adventure game\\adventure game.csproj",
       "projectName": "adventure game",
-      "projectPath": "C:\\Users\\A S U S\\Desktop\\adventure game\\adventure game.csproj",
+      "projectPath": "C:\\Users\\A S U S\\Desktop\\Daspro\\adventure game\\adventure game.csproj",
       "packagesPath": "C:\\Users\\A S U S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A S U S\\Desktop\\adventure game\\obj\\",
+      "outputPath": "C:\\Users\\A S U S\\Desktop\\Daspro\\adventure game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A S U S\\AppData\\Roaming\\NuGet\\NuGet.Config"

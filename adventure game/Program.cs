@@ -50,6 +50,7 @@ namespace Adventure_Game
                         break;
                         case "4" :
                         Console.WriteLine(player.Name+" is running away...");
+                        player.IsDead = true;
                         break;
                     }
                     continue;
