@@ -1,0 +1,32 @@
+C:\Users\X441M\Desktop\adventure game\bin\Debug\net5.0\adventure game.exe
+C:\Users\X441M\Desktop\adventure game\bin\Debug\net5.0\adventure game.deps.json
+C:\Users\X441M\Desktop\adventure game\bin\Debug\net5.0\adventure game.runtimeconfig.json
+C:\Users\X441M\Desktop\adventure game\bin\Debug\net5.0\adventure game.runtimeconfig.dev.json
+C:\Users\X441M\Desktop\adventure game\bin\Debug\net5.0\adventure game.dll
+C:\Users\X441M\Desktop\adventure game\bin\Debug\net5.0\ref\adventure game.dll
+C:\Users\X441M\Desktop\adventure game\bin\Debug\net5.0\adventure game.pdb
+C:\Users\X441M\Desktop\adventure game\obj\Debug\net5.0\adventure game.csproj.AssemblyReference.cache
+C:\Users\X441M\Desktop\adventure game\obj\Debug\net5.0\adventure game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X441M\Desktop\adventure game\obj\Debug\net5.0\adventure game.AssemblyInfoInputs.cache
+C:\Users\X441M\Desktop\adventure game\obj\Debug\net5.0\adventure game.AssemblyInfo.cs
+C:\Users\X441M\Desktop\adventure game\obj\Debug\net5.0\adventure game.csproj.CoreCompileInputs.cache
+C:\Users\X441M\Desktop\adventure game\obj\Debug\net5.0\adventure game.dll
+C:\Users\X441M\Desktop\adventure game\obj\Debug\net5.0\ref\adventure game.dll
+C:\Users\X441M\Desktop\adventure game\obj\Debug\net5.0\adventure game.pdb
+C:\Users\X441M\Desktop\adventure game\obj\Debug\net5.0\adventure game.genruntimeconfig.cache
+C:\Users\A S U S\Desktop\adventure game\bin\Debug\net5.0\adventure game.exe
+C:\Users\A S U S\Desktop\adventure game\bin\Debug\net5.0\adventure game.deps.json
+C:\Users\A S U S\Desktop\adventure game\bin\Debug\net5.0\adventure game.runtimeconfig.json
+C:\Users\A S U S\Desktop\adventure game\bin\Debug\net5.0\adventure game.runtimeconfig.dev.json
+C:\Users\A S U S\Desktop\adventure game\bin\Debug\net5.0\adventure game.dll
+C:\Users\A S U S\Desktop\adventure game\bin\Debug\net5.0\ref\adventure game.dll
+C:\Users\A S U S\Desktop\adventure game\bin\Debug\net5.0\adventure game.pdb
+C:\Users\A S U S\Desktop\adventure game\obj\Debug\net5.0\adventure game.csprojAssemblyReference.cache
+C:\Users\A S U S\Desktop\adventure game\obj\Debug\net5.0\adventure game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A S U S\Desktop\adventure game\obj\Debug\net5.0\adventure game.AssemblyInfoInputs.cache
+C:\Users\A S U S\Desktop\adventure game\obj\Debug\net5.0\adventure game.AssemblyInfo.cs
+C:\Users\A S U S\Desktop\adventure game\obj\Debug\net5.0\adventure game.csproj.CoreCompileInputs.cache
+C:\Users\A S U S\Desktop\adventure game\obj\Debug\net5.0\adventure game.dll
+C:\Users\A S U S\Desktop\adventure game\obj\Debug\net5.0\ref\adventure game.dll
+C:\Users\A S U S\Desktop\adventure game\obj\Debug\net5.0\adventure game.pdb
+C:\Users\A S U S\Desktop\adventure game\obj\Debug\net5.0\adventure game.genruntimeconfig.cache

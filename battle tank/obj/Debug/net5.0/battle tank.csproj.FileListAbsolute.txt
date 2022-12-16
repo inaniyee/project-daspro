@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\battle tank\obj\Debug\net5.0\battle tank.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\battle tank\obj\Debug\net5.0\battle tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\battle tank\obj\Debug\net5.0\battle tank.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\battle tank\obj\Debug\net5.0\battle tank.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\battle tank\obj\Debug\net5.0\battle tank.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\battle tank\bin\Debug\net5.0\battle tank.exe
+C:\Users\HP\OneDrive\Desktop\battle tank\bin\Debug\net5.0\battle tank.deps.json
+C:\Users\HP\OneDrive\Desktop\battle tank\bin\Debug\net5.0\battle tank.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\battle tank\bin\Debug\net5.0\battle tank.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\battle tank\bin\Debug\net5.0\battle tank.dll
+C:\Users\HP\OneDrive\Desktop\battle tank\bin\Debug\net5.0\ref\battle tank.dll
+C:\Users\HP\OneDrive\Desktop\battle tank\bin\Debug\net5.0\battle tank.pdb
+C:\Users\HP\OneDrive\Desktop\battle tank\obj\Debug\net5.0\battle tank.dll
+C:\Users\HP\OneDrive\Desktop\battle tank\obj\Debug\net5.0\ref\battle tank.dll
+C:\Users\HP\OneDrive\Desktop\battle tank\obj\Debug\net5.0\battle tank.pdb
+C:\Users\HP\OneDrive\Desktop\battle tank\obj\Debug\net5.0\battle tank.genruntimeconfig.cache

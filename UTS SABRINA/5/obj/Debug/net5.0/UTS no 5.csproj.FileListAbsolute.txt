@@ -1,0 +1,48 @@
+C:\Users\X441M\Desktop\UTS no 5\obj\Debug\net5.0\UTS no 5.csproj.AssemblyReference.cache
+C:\Users\X441M\Desktop\UTS no 5\obj\Debug\net5.0\UTS no 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X441M\Desktop\UTS no 5\obj\Debug\net5.0\UTS no 5.AssemblyInfoInputs.cache
+C:\Users\X441M\Desktop\UTS no 5\obj\Debug\net5.0\UTS no 5.AssemblyInfo.cs
+C:\Users\X441M\Desktop\UTS no 5\obj\Debug\net5.0\UTS no 5.csproj.CoreCompileInputs.cache
+C:\Users\X441M\Desktop\UTS no 5\bin\Debug\net5.0\UTS no 5.exe
+C:\Users\X441M\Desktop\UTS no 5\bin\Debug\net5.0\UTS no 5.deps.json
+C:\Users\X441M\Desktop\UTS no 5\bin\Debug\net5.0\UTS no 5.runtimeconfig.json
+C:\Users\X441M\Desktop\UTS no 5\bin\Debug\net5.0\UTS no 5.runtimeconfig.dev.json
+C:\Users\X441M\Desktop\UTS no 5\bin\Debug\net5.0\UTS no 5.dll
+C:\Users\X441M\Desktop\UTS no 5\bin\Debug\net5.0\ref\UTS no 5.dll
+C:\Users\X441M\Desktop\UTS no 5\bin\Debug\net5.0\UTS no 5.pdb
+C:\Users\X441M\Desktop\UTS no 5\obj\Debug\net5.0\UTS no 5.dll
+C:\Users\X441M\Desktop\UTS no 5\obj\Debug\net5.0\ref\UTS no 5.dll
+C:\Users\X441M\Desktop\UTS no 5\obj\Debug\net5.0\UTS no 5.pdb
+C:\Users\X441M\Desktop\UTS no 5\obj\Debug\net5.0\UTS no 5.genruntimeconfig.cache
+C:\Users\X441M\Desktop\tes run\UTS no 5\bin\Debug\net5.0\UTS no 5.exe
+C:\Users\X441M\Desktop\tes run\UTS no 5\bin\Debug\net5.0\UTS no 5.deps.json
+C:\Users\X441M\Desktop\tes run\UTS no 5\bin\Debug\net5.0\UTS no 5.runtimeconfig.json
+C:\Users\X441M\Desktop\tes run\UTS no 5\bin\Debug\net5.0\UTS no 5.runtimeconfig.dev.json
+C:\Users\X441M\Desktop\tes run\UTS no 5\bin\Debug\net5.0\UTS no 5.dll
+C:\Users\X441M\Desktop\tes run\UTS no 5\bin\Debug\net5.0\ref\UTS no 5.dll
+C:\Users\X441M\Desktop\tes run\UTS no 5\bin\Debug\net5.0\UTS no 5.pdb
+C:\Users\X441M\Desktop\tes run\UTS no 5\obj\Debug\net5.0\UTS no 5.csproj.AssemblyReference.cache
+C:\Users\X441M\Desktop\tes run\UTS no 5\obj\Debug\net5.0\UTS no 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X441M\Desktop\tes run\UTS no 5\obj\Debug\net5.0\UTS no 5.AssemblyInfoInputs.cache
+C:\Users\X441M\Desktop\tes run\UTS no 5\obj\Debug\net5.0\UTS no 5.AssemblyInfo.cs
+C:\Users\X441M\Desktop\tes run\UTS no 5\obj\Debug\net5.0\UTS no 5.csproj.CoreCompileInputs.cache
+C:\Users\X441M\Desktop\tes run\UTS no 5\obj\Debug\net5.0\UTS no 5.dll
+C:\Users\X441M\Desktop\tes run\UTS no 5\obj\Debug\net5.0\ref\UTS no 5.dll
+C:\Users\X441M\Desktop\tes run\UTS no 5\obj\Debug\net5.0\UTS no 5.pdb
+C:\Users\X441M\Desktop\tes run\UTS no 5\obj\Debug\net5.0\UTS no 5.genruntimeconfig.cache
+C:\Users\A S U S\Desktop\UTS SABRINA\5\bin\Debug\net5.0\UTS no 5.exe
+C:\Users\A S U S\Desktop\UTS SABRINA\5\bin\Debug\net5.0\UTS no 5.deps.json
+C:\Users\A S U S\Desktop\UTS SABRINA\5\bin\Debug\net5.0\UTS no 5.runtimeconfig.json
+C:\Users\A S U S\Desktop\UTS SABRINA\5\bin\Debug\net5.0\UTS no 5.runtimeconfig.dev.json
+C:\Users\A S U S\Desktop\UTS SABRINA\5\bin\Debug\net5.0\UTS no 5.dll
+C:\Users\A S U S\Desktop\UTS SABRINA\5\bin\Debug\net5.0\ref\UTS no 5.dll
+C:\Users\A S U S\Desktop\UTS SABRINA\5\bin\Debug\net5.0\UTS no 5.pdb
+C:\Users\A S U S\Desktop\UTS SABRINA\5\obj\Debug\net5.0\UTS no 5.csprojAssemblyReference.cache
+C:\Users\A S U S\Desktop\UTS SABRINA\5\obj\Debug\net5.0\UTS no 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A S U S\Desktop\UTS SABRINA\5\obj\Debug\net5.0\UTS no 5.AssemblyInfoInputs.cache
+C:\Users\A S U S\Desktop\UTS SABRINA\5\obj\Debug\net5.0\UTS no 5.AssemblyInfo.cs
+C:\Users\A S U S\Desktop\UTS SABRINA\5\obj\Debug\net5.0\UTS no 5.csproj.CoreCompileInputs.cache
+C:\Users\A S U S\Desktop\UTS SABRINA\5\obj\Debug\net5.0\UTS no 5.dll
+C:\Users\A S U S\Desktop\UTS SABRINA\5\obj\Debug\net5.0\ref\UTS no 5.dll
+C:\Users\A S U S\Desktop\UTS SABRINA\5\obj\Debug\net5.0\UTS no 5.pdb
+C:\Users\A S U S\Desktop\UTS SABRINA\5\obj\Debug\net5.0\UTS no 5.genruntimeconfig.cache
